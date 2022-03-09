@@ -1,0 +1,36 @@
+Subjects,lab coat,eyeglasses,facial hair,pencil/pen in pocket,unkempt appearance,test tubes,flasks,microscope,bunsen burner,experimental animals,other (symbols of research),books,filing cabinets,other (symbols of knowledge),solutions in glassware,machines,other (signs of technology),scientist gender,scientist race,overall appearance of scientist
+H4-2,n,n,n,n,n,n,y,n,n,n,y,n,n,y,y,n,n,f,don't know,P
+H4-3,n,n,n,n,n,y,n,n,n,n,y,n,n,y,n,n,n,don't know,don't know,P
+H4-6,n,n,n,n,y,n,y,n,n,n,y,n,n,y,y,n,n,m,don't know,"E,N"
+H4-7,n,n,n,n,n,n,y,n,n,n,y,n,n,y,n,n,n,f,don't know,N
+H4-8,n,n,n,n,n,n,y,n,n,n,y,n,n,n,y,n,n,don't know,don't know,N
+H4-9,n,n,n,n,n,n,n,n,n,n,y,n,n,y,n,n,n,f,don't know,P
+H4-10,n,n,n,n,y,n,y,n,n,n,y,n,n,y,y,n,n,m,don't know,E
+H4-11,y,n,n,n,n,y,y,n,n,n,y,n,n,y,y,n,n,f,don't know,P
+H4-14,n,n,n,n,y,n,y,n,n,n,y,n,n,y,y,n,n,m,don't know,E
+H4-15,n,n,n,n,n,n,y,n,n,n,y,n,n,y,y,n,n,m,don't know,P
+H4-16,n,y,n,n,n,n,y,n,n,n,y,n,n,y,y,n,y,m,don't know,N
+H4-17,n,n,n,n,n,y,y,n,n,n,y,n,n,y,y,n,n,f,don't know,P
+H4-18,n,y,y,n,y,n,y,n,n,n,y,n,n,y,y,n,y,m,don't know,E
+P3-1,y,n,n,n,n,n,y,n,n,n,n,n,n,y,n,n,n,don't know,white,P
+P3-2,n,y,y,n,y,n,n,n,n,n,y,n,n,n,n,n,n,m,don't know,P
+P3-3,y,y,n,n,n,n,y,n,n,n,n,y,n,y,y,n,n,m,don't know,N
+P3-4,y,y,n,n,n,n,y,n,n,n,n,n,n,y,y,n,n,m,don't know,P
+P3-5,Y,Y,Y,n,y,n,y,n,n,n,n,n,y,y,n,n,n,m,don't know,S
+P3-6,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,don't know,don't know,S
+P3-7,n,y,n,y,n,y,n,n,n,n,n,n,n,y,y,n,n,f,white,P
+P3-8,y,y,n,y,n,y,n,n,n,n,n,n,n,y,y,n,n,m,don't know,S
+P3-9,y,y,n,n,n,y,y,n,n,n,n,n,n,y,y,n,n,m,don't know,P
+P3-10,n,y,n,n,y,n,y,n,y,n,n,n,n,y,n,n,n,m,don't know,S
+P3-11,y,n,n,n,n,n,y,n,n,n,n,n,n,y,y,n,n,f,don't know,P
+SME 1,n,n,n,n,n,n,y,n,n,n,n,n,n,n,y,n,n,m,white,N
+SME 2,n,y,n,n,y,n,y,n,n,n,n,n,n,y,y,n,n,m,don't know,P
+SME 3,n,n,n,n,y,n,n,n,n,y,y,n,n,y,n,n,n,m,don't know,P
+SME 4 * possibly blind answering,y,n,n,n,n,n,y,y,n,n,y,n,n,y,n,n,n,f,don't know,P 
+SME 5,n,n,n,n,n,n,y,n,n,y,y,n,n,n,n,n,n,m,white,P
+SME 6,n,n,n,n,y,n,n,n,n,y,y,n,n,y,n,n,n,m,white,E
+SME 7,n,n,n,n,n,n,n,n,n,y,y,n,n,y,n,n,n,f,white,P
+SME8,n,n,n,n,y,n,y,n,n,n,n,n,n,n,y,n,n,m,don't know,N
+SME9,n,n,n,n,n,n,y,n,n,y,n,n,n,y,n,n,n,m,don't know,N
+SME10,n,n,n,n,n,y,y,n,n,n,n,n,n,y,y,n,n,f,don't know,N
+SME11,n,n,n,n,n,n,n,n,n,n,y,n,n,y,n,n,n,m,don't know,N
